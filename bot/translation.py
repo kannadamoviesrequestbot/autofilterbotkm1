@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} HOW ARE YOU!!</b></u>
-<i>Am Just A Advance Auto Filter Bot....😉 @KANNADAMOVIES_17
+<i>Am Just A Advance Auto Filter Bot....😉 @BAGURUJOINAGUUKANNADAMOVIES_17
 
 You cannot add me to your👅 group and also channel🙈😱
 
 For More Details Click Help Button Below..
-@KANNADAMOVIES_17
+@BAGURUJOINAGUUKANNADAMOVIES_17
 </i>"""    
     
     HELP_TEXT = """
@@ -45,9 +45,9 @@ For More Details Click Help Button Below..
             
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> ANIKHA 2.0</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/KANNADAMOVIES_17">beereshbanakards</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17">beereshbanakards</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
