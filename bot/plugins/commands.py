@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👅 Share group 👅', url="https://t.me/KANNADAMOVIES_17"
+                                    '👅 Share group 👅', url="https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17"
                                 )
                         ]
                     ]
@@ -47,9 +47,9 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
+        InlineKeyboardButton('Developers', url='https://t.me/beereshbanakards'),
       
-        InlineKeyboardButton('Support 🛠', url='https://t.me/KANNADAMOVIES_17')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
